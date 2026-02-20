@@ -7,9 +7,9 @@
 	
 // DB CREDENCIALES DE USUARIO.
 define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','php_consultapdo');
+define('DB_USER','MORJANDEV');
+define('DB_PASS','Morjan*1025544889');
+define('DB_NAME','dato_pdo_mysql');
  
 // Ahora, establecemos la conexión.
 try
